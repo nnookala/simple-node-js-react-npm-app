@@ -1,4 +1,4 @@
-//Adding comment to test webhook
+/*Adding comment to test webhook*/
 pipeline {
     agent {
         docker {
